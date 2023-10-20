@@ -1,7 +1,6 @@
 #Zelda.csproj ma zmieniony target framework z .net 6 na 7
 #animation tree: playmode travel
 #transitions: switch mode immediate, mode enabled
-#makarena
 extends CharacterBody2D
 
 var playerVelocity: Vector2 = Vector2.ZERO
